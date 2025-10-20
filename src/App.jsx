@@ -438,6 +438,13 @@ export default function App() {
           </div>
         </div>
       </section>
+
+      {/* Footer */}
+      <footer className="bg-sky-900 text-white py-6 text-center border-t border-sky-800">
+        <p className="text-sm sm:text-base">
+          © 2025 <span className="font-semibold text-orange-400 hover:text-orange-300 transition">Harvey Sean</span>. All rights reserved.
+        </p>
+      </footer>
     </main >
   );
 }
