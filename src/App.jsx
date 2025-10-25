@@ -12,7 +12,7 @@ import {
   Cpu,
   Palette,
 } from "lucide-react";
-import avatar from './assets/avatar.png';
+import avatar from './assets/avatar2.jpg';
 import athome from './assets/athome.png'
 
 const projects = [
@@ -157,7 +157,7 @@ export default function App() {
                   View Outputs
                 </a>
                 <a
-                  href="#detail"
+                  href="#aboutme"
                   className="rounded-full border border-slate-200 px-6 py-3 font-medium text-white hover:bg-slate-200/20 transition"
                 >
                   About Me
